@@ -1,0 +1,401 @@
+[2023-03-28 22:24:12,121] {processor.py:153} INFO - Started process (PID=2393) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:24:12,121] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:24:12,122] {logging_mixin.py:115} INFO - [2023-03-28 22:24:12,122] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:24:12,177] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:24:12,201] {logging_mixin.py:115} INFO - [2023-03-28 22:24:12,201] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:24:12,370] {logging_mixin.py:115} INFO - [2023-03-28 22:24:12,370] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-27T10:00:00+00:00, run_after=2023-03-28T10:00:00+00:00
+[2023-03-28 22:24:12,393] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.274 seconds
+[2023-03-28 22:24:42,856] {processor.py:153} INFO - Started process (PID=2450) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:24:42,856] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:24:42,857] {logging_mixin.py:115} INFO - [2023-03-28 22:24:42,857] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:24:42,902] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:24:42,921] {logging_mixin.py:115} INFO - [2023-03-28 22:24:42,921] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:24:43,021] {logging_mixin.py:115} INFO - [2023-03-28 22:24:43,021] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-27T10:00:00+00:00, run_after=2023-03-28T10:00:00+00:00
+[2023-03-28 22:24:43,033] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.179 seconds
+[2023-03-28 22:25:13,522] {processor.py:153} INFO - Started process (PID=2514) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:25:13,533] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:25:13,533] {logging_mixin.py:115} INFO - [2023-03-28 22:25:13,533] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:25:13,587] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:25:13,609] {logging_mixin.py:115} INFO - [2023-03-28 22:25:13,609] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:25:13,713] {logging_mixin.py:115} INFO - [2023-03-28 22:25:13,713] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-27T10:00:00+00:00, run_after=2023-03-28T10:00:00+00:00
+[2023-03-28 22:25:13,724] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.204 seconds
+[2023-03-28 22:25:44,483] {processor.py:153} INFO - Started process (PID=2578) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:25:44,483] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:25:44,483] {logging_mixin.py:115} INFO - [2023-03-28 22:25:44,483] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:25:44,527] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:25:44,548] {logging_mixin.py:115} INFO - [2023-03-28 22:25:44,548] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:25:44,647] {logging_mixin.py:115} INFO - [2023-03-28 22:25:44,646] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-27T10:00:00+00:00, run_after=2023-03-28T10:00:00+00:00
+[2023-03-28 22:25:44,658] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.177 seconds
+[2023-03-28 22:26:15,349] {processor.py:153} INFO - Started process (PID=2633) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:26:15,350] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:26:15,351] {logging_mixin.py:115} INFO - [2023-03-28 22:26:15,351] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:26:15,394] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:26:15,415] {logging_mixin.py:115} INFO - [2023-03-28 22:26:15,415] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:26:15,523] {logging_mixin.py:115} INFO - [2023-03-28 22:26:15,523] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-27T10:00:00+00:00, run_after=2023-03-28T10:00:00+00:00
+[2023-03-28 22:26:15,537] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.190 seconds
+[2023-03-28 22:26:45,566] {processor.py:153} INFO - Started process (PID=2698) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:26:45,566] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:26:45,567] {logging_mixin.py:115} INFO - [2023-03-28 22:26:45,567] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:26:45,612] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:26:45,633] {logging_mixin.py:115} INFO - [2023-03-28 22:26:45,633] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:26:45,730] {logging_mixin.py:115} INFO - [2023-03-28 22:26:45,730] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-27T10:00:00+00:00, run_after=2023-03-28T10:00:00+00:00
+[2023-03-28 22:26:45,740] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.177 seconds
+[2023-03-28 22:27:16,371] {processor.py:153} INFO - Started process (PID=2763) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:27:16,372] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:27:16,373] {logging_mixin.py:115} INFO - [2023-03-28 22:27:16,373] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:27:16,419] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:27:16,438] {logging_mixin.py:115} INFO - [2023-03-28 22:27:16,438] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:27:16,538] {logging_mixin.py:115} INFO - [2023-03-28 22:27:16,538] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-27T10:00:00+00:00, run_after=2023-03-28T10:00:00+00:00
+[2023-03-28 22:27:16,550] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.180 seconds
+[2023-03-28 22:27:47,035] {processor.py:153} INFO - Started process (PID=2826) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:27:47,036] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:27:47,037] {logging_mixin.py:115} INFO - [2023-03-28 22:27:47,037] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:27:47,092] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:27:47,114] {logging_mixin.py:115} INFO - [2023-03-28 22:27:47,114] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:27:47,241] {logging_mixin.py:115} INFO - [2023-03-28 22:27:47,241] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-27T10:00:00+00:00, run_after=2023-03-28T10:00:00+00:00
+[2023-03-28 22:27:47,254] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.221 seconds
+[2023-03-28 22:28:17,742] {processor.py:153} INFO - Started process (PID=2883) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:28:17,753] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:28:17,754] {logging_mixin.py:115} INFO - [2023-03-28 22:28:17,754] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:28:17,800] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:28:17,819] {logging_mixin.py:115} INFO - [2023-03-28 22:28:17,819] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:28:17,913] {logging_mixin.py:115} INFO - [2023-03-28 22:28:17,913] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-27T10:00:00+00:00, run_after=2023-03-28T10:00:00+00:00
+[2023-03-28 22:28:17,923] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.183 seconds
+[2023-03-28 22:28:38,760] {processor.py:153} INFO - Started process (PID=2938) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:28:38,761] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:28:38,761] {logging_mixin.py:115} INFO - [2023-03-28 22:28:38,761] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:28:38,810] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:28:39,023] {logging_mixin.py:115} INFO - [2023-03-28 22:28:39,023] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:28:39,041] {logging_mixin.py:115} INFO - [2023-03-28 22:28:39,041] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-27T10:00:00+00:00, run_after=2023-03-28T10:00:00+00:00
+[2023-03-28 22:28:39,056] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.297 seconds
+[2023-03-28 22:29:09,836] {processor.py:153} INFO - Started process (PID=3002) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:29:09,837] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:29:09,838] {logging_mixin.py:115} INFO - [2023-03-28 22:29:09,838] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:29:09,884] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:29:09,904] {logging_mixin.py:115} INFO - [2023-03-28 22:29:09,904] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:29:10,007] {logging_mixin.py:115} INFO - [2023-03-28 22:29:10,007] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:29:10,018] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.183 seconds
+[2023-03-28 22:29:40,453] {processor.py:153} INFO - Started process (PID=3064) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:29:40,454] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:29:40,454] {logging_mixin.py:115} INFO - [2023-03-28 22:29:40,454] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:29:40,508] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:29:40,532] {logging_mixin.py:115} INFO - [2023-03-28 22:29:40,532] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:29:40,648] {logging_mixin.py:115} INFO - [2023-03-28 22:29:40,647] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:29:40,669] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.218 seconds
+[2023-03-28 22:30:10,976] {processor.py:153} INFO - Started process (PID=3121) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:30:10,977] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:30:10,978] {logging_mixin.py:115} INFO - [2023-03-28 22:30:10,978] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:30:11,030] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:30:11,134] {logging_mixin.py:115} INFO - [2023-03-28 22:30:11,134] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:30:11,155] {logging_mixin.py:115} INFO - [2023-03-28 22:30:11,155] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:30:11,165] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.191 seconds
+[2023-03-28 22:30:41,312] {processor.py:153} INFO - Started process (PID=3185) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:30:41,313] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:30:41,313] {logging_mixin.py:115} INFO - [2023-03-28 22:30:41,313] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:30:41,358] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:30:41,455] {logging_mixin.py:115} INFO - [2023-03-28 22:30:41,455] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:30:41,473] {logging_mixin.py:115} INFO - [2023-03-28 22:30:41,473] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-27T10:00:00+00:00, run_after=2023-03-28T10:00:00+00:00
+[2023-03-28 22:30:41,483] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.173 seconds
+[2023-03-28 22:31:11,564] {processor.py:153} INFO - Started process (PID=3249) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:31:11,565] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:31:11,566] {logging_mixin.py:115} INFO - [2023-03-28 22:31:11,566] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:31:11,616] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:31:11,733] {logging_mixin.py:115} INFO - [2023-03-28 22:31:11,733] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:31:11,753] {logging_mixin.py:115} INFO - [2023-03-28 22:31:11,753] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:31:11,765] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.202 seconds
+[2023-03-28 22:31:41,922] {processor.py:153} INFO - Started process (PID=3304) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:31:41,922] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:31:41,922] {logging_mixin.py:115} INFO - [2023-03-28 22:31:41,922] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:31:41,966] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:31:42,066] {logging_mixin.py:115} INFO - [2023-03-28 22:31:42,066] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:31:42,086] {logging_mixin.py:115} INFO - [2023-03-28 22:31:42,086] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:31:42,097] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.177 seconds
+[2023-03-28 22:32:12,307] {processor.py:153} INFO - Started process (PID=3368) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:32:12,319] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:32:12,320] {logging_mixin.py:115} INFO - [2023-03-28 22:32:12,320] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:32:12,364] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:32:12,468] {logging_mixin.py:115} INFO - [2023-03-28 22:32:12,468] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:32:12,490] {logging_mixin.py:115} INFO - [2023-03-28 22:32:12,490] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:32:12,507] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.202 seconds
+[2023-03-28 22:32:42,826] {processor.py:153} INFO - Started process (PID=3432) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:32:42,826] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:32:42,827] {logging_mixin.py:115} INFO - [2023-03-28 22:32:42,827] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:32:42,876] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:32:42,996] {logging_mixin.py:115} INFO - [2023-03-28 22:32:42,996] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:32:43,016] {logging_mixin.py:115} INFO - [2023-03-28 22:32:43,016] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:32:43,032] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.209 seconds
+[2023-03-28 22:33:13,108] {processor.py:153} INFO - Started process (PID=3487) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:33:13,109] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:33:13,109] {logging_mixin.py:115} INFO - [2023-03-28 22:33:13,109] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:33:13,157] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:33:13,264] {logging_mixin.py:115} INFO - [2023-03-28 22:33:13,264] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:33:13,284] {logging_mixin.py:115} INFO - [2023-03-28 22:33:13,284] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:33:13,298] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.192 seconds
+[2023-03-28 22:33:43,402] {processor.py:153} INFO - Started process (PID=3551) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:33:43,402] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:33:43,402] {logging_mixin.py:115} INFO - [2023-03-28 22:33:43,402] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:33:43,454] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:33:43,607] {logging_mixin.py:115} INFO - [2023-03-28 22:33:43,607] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:33:43,629] {logging_mixin.py:115} INFO - [2023-03-28 22:33:43,629] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:33:43,641] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.241 seconds
+[2023-03-28 22:34:13,780] {processor.py:153} INFO - Started process (PID=3615) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:34:13,781] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:34:13,782] {logging_mixin.py:115} INFO - [2023-03-28 22:34:13,782] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:34:13,838] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:34:13,958] {logging_mixin.py:115} INFO - [2023-03-28 22:34:13,958] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:34:13,981] {logging_mixin.py:115} INFO - [2023-03-28 22:34:13,981] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:34:13,996] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.217 seconds
+[2023-03-28 22:34:44,131] {processor.py:153} INFO - Started process (PID=3670) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:34:44,131] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:34:44,131] {logging_mixin.py:115} INFO - [2023-03-28 22:34:44,131] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:34:44,178] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:34:44,294] {logging_mixin.py:115} INFO - [2023-03-28 22:34:44,294] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:34:44,314] {logging_mixin.py:115} INFO - [2023-03-28 22:34:44,314] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:34:44,326] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.199 seconds
+[2023-03-28 22:35:14,822] {processor.py:153} INFO - Started process (PID=3735) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:35:14,823] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:35:14,823] {logging_mixin.py:115} INFO - [2023-03-28 22:35:14,823] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:35:14,879] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:35:14,999] {logging_mixin.py:115} INFO - [2023-03-28 22:35:14,999] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:35:15,021] {logging_mixin.py:115} INFO - [2023-03-28 22:35:15,021] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:35:15,035] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.215 seconds
+[2023-03-28 22:35:45,693] {processor.py:153} INFO - Started process (PID=3799) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:35:45,694] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:35:45,694] {logging_mixin.py:115} INFO - [2023-03-28 22:35:45,694] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:35:45,743] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:35:45,845] {logging_mixin.py:115} INFO - [2023-03-28 22:35:45,845] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:35:45,865] {logging_mixin.py:115} INFO - [2023-03-28 22:35:45,864] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:35:45,874] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.183 seconds
+[2023-03-28 22:36:16,202] {processor.py:153} INFO - Started process (PID=3854) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:36:16,213] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:36:16,214] {logging_mixin.py:115} INFO - [2023-03-28 22:36:16,214] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:36:16,261] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:36:16,360] {logging_mixin.py:115} INFO - [2023-03-28 22:36:16,360] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:36:16,379] {logging_mixin.py:115} INFO - [2023-03-28 22:36:16,379] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:36:16,389] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.190 seconds
+[2023-03-28 22:36:19,382] {processor.py:153} INFO - Started process (PID=3864) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:36:19,382] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:36:19,383] {logging_mixin.py:115} INFO - [2023-03-28 22:36:19,383] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:36:19,431] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:36:19,527] {logging_mixin.py:115} INFO - [2023-03-28 22:36:19,527] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:36:19,546] {logging_mixin.py:115} INFO - [2023-03-28 22:36:19,546] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:36:19,559] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.178 seconds
+[2023-03-28 22:36:50,278] {processor.py:153} INFO - Started process (PID=3920) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:36:50,279] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:36:50,280] {logging_mixin.py:115} INFO - [2023-03-28 22:36:50,280] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:36:50,324] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:36:50,422] {logging_mixin.py:115} INFO - [2023-03-28 22:36:50,422] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:36:50,440] {logging_mixin.py:115} INFO - [2023-03-28 22:36:50,440] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:36:50,451] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.175 seconds
+[2023-03-28 22:37:20,877] {processor.py:153} INFO - Started process (PID=3985) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:37:20,877] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:37:20,878] {logging_mixin.py:115} INFO - [2023-03-28 22:37:20,878] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:37:20,930] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:37:21,042] {logging_mixin.py:115} INFO - [2023-03-28 22:37:21,042] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:37:21,061] {logging_mixin.py:115} INFO - [2023-03-28 22:37:21,061] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:37:21,072] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.197 seconds
+[2023-03-28 22:37:51,655] {processor.py:153} INFO - Started process (PID=4049) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:37:51,656] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:37:51,657] {logging_mixin.py:115} INFO - [2023-03-28 22:37:51,657] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:37:51,702] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:37:51,817] {logging_mixin.py:115} INFO - [2023-03-28 22:37:51,817] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:37:51,836] {logging_mixin.py:115} INFO - [2023-03-28 22:37:51,836] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:37:51,847] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.193 seconds
+[2023-03-28 22:38:22,549] {processor.py:153} INFO - Started process (PID=4104) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:38:22,551] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:38:22,551] {logging_mixin.py:115} INFO - [2023-03-28 22:38:22,551] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:38:22,597] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:38:22,702] {logging_mixin.py:115} INFO - [2023-03-28 22:38:22,702] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:38:22,721] {logging_mixin.py:115} INFO - [2023-03-28 22:38:22,721] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:38:22,732] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.184 seconds
+[2023-03-28 22:38:53,240] {processor.py:153} INFO - Started process (PID=4168) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:38:53,252] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:38:53,253] {logging_mixin.py:115} INFO - [2023-03-28 22:38:53,253] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:38:53,302] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:38:53,403] {logging_mixin.py:115} INFO - [2023-03-28 22:38:53,403] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:38:53,421] {logging_mixin.py:115} INFO - [2023-03-28 22:38:53,421] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:38:53,431] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.193 seconds
+[2023-03-28 22:39:24,018] {processor.py:153} INFO - Started process (PID=4233) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:39:24,019] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:39:24,019] {logging_mixin.py:115} INFO - [2023-03-28 22:39:24,019] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:39:24,064] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:39:24,165] {logging_mixin.py:115} INFO - [2023-03-28 22:39:24,165] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:39:24,185] {logging_mixin.py:115} INFO - [2023-03-28 22:39:24,184] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:39:24,196] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.179 seconds
+[2023-03-28 22:39:54,677] {processor.py:153} INFO - Started process (PID=4297) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:39:54,678] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:39:54,679] {logging_mixin.py:115} INFO - [2023-03-28 22:39:54,679] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:39:54,740] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:39:54,849] {logging_mixin.py:115} INFO - [2023-03-28 22:39:54,849] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:39:54,867] {logging_mixin.py:115} INFO - [2023-03-28 22:39:54,867] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:39:54,877] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.203 seconds
+[2023-03-28 22:40:15,935] {processor.py:153} INFO - Started process (PID=4332) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:40:15,935] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:40:15,935] {logging_mixin.py:115} INFO - [2023-03-28 22:40:15,935] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:40:16,077] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:40:16,101] {logging_mixin.py:115} INFO - [2023-03-28 22:40:16,101] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:40:16,140] {logging_mixin.py:115} INFO - [2023-03-28 22:40:16,140] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:40:16,155] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.223 seconds
+[2023-03-28 22:41:26,738] {processor.py:153} INFO - Started process (PID=45) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:41:26,739] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:41:26,740] {logging_mixin.py:115} INFO - [2023-03-28 22:41:26,740] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:41:26,820] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:41:26,845] {logging_mixin.py:115} INFO - [2023-03-28 22:41:26,845] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:41:26,870] {logging_mixin.py:115} INFO - [2023-03-28 22:41:26,870] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:41:26,887] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.151 seconds
+[2023-03-28 22:41:57,325] {processor.py:153} INFO - Started process (PID=110) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:41:57,326] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:41:57,326] {logging_mixin.py:115} INFO - [2023-03-28 22:41:57,326] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:41:57,380] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:41:57,401] {logging_mixin.py:115} INFO - [2023-03-28 22:41:57,401] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:41:57,424] {logging_mixin.py:115} INFO - [2023-03-28 22:41:57,424] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:41:57,539] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.217 seconds
+[2023-03-28 22:42:27,641] {processor.py:153} INFO - Started process (PID=167) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:42:27,641] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:42:27,642] {logging_mixin.py:115} INFO - [2023-03-28 22:42:27,642] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:42:27,727] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:42:27,893] {logging_mixin.py:115} INFO - [2023-03-28 22:42:27,892] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:42:27,900] {logging_mixin.py:115} INFO - [2023-03-28 22:42:27,900] {dag.py:2390} INFO - Creating ORM DAG for country_dag
+[2023-03-28 22:42:27,912] {logging_mixin.py:115} INFO - [2023-03-28 22:42:27,912] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-27T10:00:00+00:00, run_after=2023-03-28T10:00:00+00:00
+[2023-03-28 22:42:27,927] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.291 seconds
+[2023-03-28 22:42:58,154] {processor.py:153} INFO - Started process (PID=230) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:42:58,166] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:42:58,167] {logging_mixin.py:115} INFO - [2023-03-28 22:42:58,167] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:42:58,219] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:42:58,240] {logging_mixin.py:115} INFO - [2023-03-28 22:42:58,240] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:42:58,262] {logging_mixin.py:115} INFO - [2023-03-28 22:42:58,262] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:42:58,366] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.214 seconds
+[2023-03-28 22:43:28,493] {processor.py:153} INFO - Started process (PID=294) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:43:28,495] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:43:28,497] {logging_mixin.py:115} INFO - [2023-03-28 22:43:28,496] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:43:28,576] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:43:28,831] {logging_mixin.py:115} INFO - [2023-03-28 22:43:28,831] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:43:28,839] {logging_mixin.py:115} INFO - [2023-03-28 22:43:28,838] {dag.py:2390} INFO - Creating ORM DAG for country_dag
+[2023-03-28 22:43:28,852] {logging_mixin.py:115} INFO - [2023-03-28 22:43:28,852] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-27T10:00:00+00:00, run_after=2023-03-28T10:00:00+00:00
+[2023-03-28 22:43:28,873] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.384 seconds
+[2023-03-28 22:43:59,154] {processor.py:153} INFO - Started process (PID=349) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:43:59,155] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:43:59,155] {logging_mixin.py:115} INFO - [2023-03-28 22:43:59,155] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:43:59,204] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:43:59,224] {logging_mixin.py:115} INFO - [2023-03-28 22:43:59,224] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:43:59,245] {logging_mixin.py:115} INFO - [2023-03-28 22:43:59,245] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:43:59,350] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.198 seconds
+[2023-03-28 22:44:29,803] {processor.py:153} INFO - Started process (PID=413) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:44:29,803] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:44:29,804] {logging_mixin.py:115} INFO - [2023-03-28 22:44:29,804] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:44:29,877] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:44:29,898] {logging_mixin.py:115} INFO - [2023-03-28 22:44:29,898] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:44:29,921] {logging_mixin.py:115} INFO - [2023-03-28 22:44:29,921] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:44:30,022] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.221 seconds
+[2023-03-28 22:45:00,693] {processor.py:153} INFO - Started process (PID=477) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:45:00,694] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:45:00,695] {logging_mixin.py:115} INFO - [2023-03-28 22:45:00,695] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:45:00,750] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:45:00,773] {logging_mixin.py:115} INFO - [2023-03-28 22:45:00,773] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:45:00,795] {logging_mixin.py:115} INFO - [2023-03-28 22:45:00,795] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:45:00,927] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.236 seconds
+[2023-03-28 22:45:31,670] {processor.py:153} INFO - Started process (PID=541) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:45:31,671] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:45:31,671] {logging_mixin.py:115} INFO - [2023-03-28 22:45:31,671] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:45:31,729] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:45:31,754] {logging_mixin.py:115} INFO - [2023-03-28 22:45:31,754] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:45:31,780] {logging_mixin.py:115} INFO - [2023-03-28 22:45:31,779] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:45:31,912] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.244 seconds
+[2023-03-28 22:46:02,040] {processor.py:153} INFO - Started process (PID=598) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:46:02,041] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:46:02,041] {logging_mixin.py:115} INFO - [2023-03-28 22:46:02,041] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:46:02,092] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:46:02,113] {logging_mixin.py:115} INFO - [2023-03-28 22:46:02,113] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:46:02,136] {logging_mixin.py:115} INFO - [2023-03-28 22:46:02,136] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:46:02,245] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.207 seconds
+[2023-03-28 22:46:32,287] {processor.py:153} INFO - Started process (PID=664) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:46:32,288] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:46:32,289] {logging_mixin.py:115} INFO - [2023-03-28 22:46:32,289] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:46:32,339] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:46:32,359] {logging_mixin.py:115} INFO - [2023-03-28 22:46:32,359] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:46:32,471] {logging_mixin.py:115} INFO - [2023-03-28 22:46:32,471] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:46:32,483] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.198 seconds
+[2023-03-28 22:47:02,571] {processor.py:153} INFO - Started process (PID=721) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:47:02,571] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:47:02,571] {logging_mixin.py:115} INFO - [2023-03-28 22:47:02,571] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:47:02,618] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:47:02,690] {logging_mixin.py:115} INFO - [2023-03-28 22:47:02,689] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:47:02,827] {logging_mixin.py:115} INFO - [2023-03-28 22:47:02,827] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:47:02,840] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.271 seconds
+[2023-03-28 22:48:10,865] {processor.py:153} INFO - Started process (PID=53) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:48:10,867] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:48:10,867] {logging_mixin.py:115} INFO - [2023-03-28 22:48:10,867] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:48:11,073] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:48:11,124] {logging_mixin.py:115} INFO - [2023-03-28 22:48:11,124] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:48:11,155] {logging_mixin.py:115} INFO - [2023-03-28 22:48:11,154] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:48:11,174] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.313 seconds
+[2023-03-28 22:48:41,491] {processor.py:153} INFO - Started process (PID=111) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:48:41,492] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:48:41,493] {logging_mixin.py:115} INFO - [2023-03-28 22:48:41,493] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:48:41,929] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:48:41,963] {logging_mixin.py:115} INFO - [2023-03-28 22:48:41,963] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:48:41,994] {logging_mixin.py:115} INFO - [2023-03-28 22:48:41,994] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:48:42,006] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.520 seconds
+[2023-03-28 22:49:12,143] {processor.py:153} INFO - Started process (PID=175) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:49:12,144] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:49:12,145] {logging_mixin.py:115} INFO - [2023-03-28 22:49:12,145] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:49:12,331] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:49:12,350] {logging_mixin.py:115} INFO - [2023-03-28 22:49:12,350] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:49:12,370] {logging_mixin.py:115} INFO - [2023-03-28 22:49:12,370] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:49:12,384] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.243 seconds
+[2023-03-28 22:49:42,784] {processor.py:153} INFO - Started process (PID=240) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:49:42,785] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:49:42,786] {logging_mixin.py:115} INFO - [2023-03-28 22:49:42,786] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:49:42,959] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:49:42,979] {logging_mixin.py:115} INFO - [2023-03-28 22:49:42,979] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:49:42,999] {logging_mixin.py:115} INFO - [2023-03-28 22:49:42,999] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:49:43,013] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.231 seconds
+[2023-03-28 22:50:13,352] {processor.py:153} INFO - Started process (PID=295) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:50:13,353] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:50:13,353] {logging_mixin.py:115} INFO - [2023-03-28 22:50:13,353] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:50:13,513] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:50:13,533] {logging_mixin.py:115} INFO - [2023-03-28 22:50:13,533] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:50:13,555] {logging_mixin.py:115} INFO - [2023-03-28 22:50:13,555] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:50:13,569] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.219 seconds
+[2023-03-28 22:50:44,352] {processor.py:153} INFO - Started process (PID=359) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:50:44,352] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:50:44,353] {logging_mixin.py:115} INFO - [2023-03-28 22:50:44,353] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:50:44,509] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:50:44,528] {logging_mixin.py:115} INFO - [2023-03-28 22:50:44,528] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:50:44,548] {logging_mixin.py:115} INFO - [2023-03-28 22:50:44,548] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:50:44,561] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.212 seconds
+[2023-03-28 22:50:50,705] {processor.py:153} INFO - Started process (PID=383) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:50:50,705] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:50:50,706] {logging_mixin.py:115} INFO - [2023-03-28 22:50:50,706] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:50:50,877] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:50:50,917] {logging_mixin.py:115} INFO - [2023-03-28 22:50:50,917] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:50:50,945] {logging_mixin.py:115} INFO - [2023-03-28 22:50:50,944] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:50:50,960] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.257 seconds
+[2023-03-28 22:52:15,423] {processor.py:153} INFO - Started process (PID=45) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:52:15,424] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:52:15,425] {logging_mixin.py:115} INFO - [2023-03-28 22:52:15,425] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:52:15,515] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:52:15,540] {logging_mixin.py:115} INFO - [2023-03-28 22:52:15,540] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:52:15,568] {logging_mixin.py:115} INFO - [2023-03-28 22:52:15,568] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:52:15,585] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.168 seconds
+[2023-03-28 22:52:45,864] {processor.py:153} INFO - Started process (PID=109) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:52:45,865] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:52:45,866] {logging_mixin.py:115} INFO - [2023-03-28 22:52:45,866] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:52:45,918] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:52:45,938] {logging_mixin.py:115} INFO - [2023-03-28 22:52:45,938] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:52:45,961] {logging_mixin.py:115} INFO - [2023-03-28 22:52:45,961] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:52:46,119] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.258 seconds
+[2023-03-28 22:53:16,158] {processor.py:153} INFO - Started process (PID=166) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:53:16,158] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:53:16,159] {logging_mixin.py:115} INFO - [2023-03-28 22:53:16,159] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:53:16,203] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:53:16,222] {logging_mixin.py:115} INFO - [2023-03-28 22:53:16,222] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:53:16,242] {logging_mixin.py:115} INFO - [2023-03-28 22:53:16,242] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:53:16,369] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.213 seconds
+[2023-03-28 22:53:46,617] {processor.py:153} INFO - Started process (PID=228) to work on /opt/airflow/dags/country_dag.py
+[2023-03-28 22:53:46,618] {processor.py:641} INFO - Processing file /opt/airflow/dags/country_dag.py for tasks to queue
+[2023-03-28 22:53:46,619] {logging_mixin.py:115} INFO - [2023-03-28 22:53:46,618] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:53:46,680] {processor.py:651} INFO - DAG(s) dict_keys(['country_dag']) retrieved from /opt/airflow/dags/country_dag.py
+[2023-03-28 22:53:46,709] {logging_mixin.py:115} INFO - [2023-03-28 22:53:46,708] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-03-28 22:53:46,739] {logging_mixin.py:115} INFO - [2023-03-28 22:53:46,739] {dag.py:2919} INFO - Setting next_dagrun for country_dag to 2023-03-28T10:00:00+00:00, run_after=2023-03-29T10:00:00+00:00
+[2023-03-28 22:53:46,889] {processor.py:161} INFO - Processing /opt/airflow/dags/country_dag.py took 0.275 seconds

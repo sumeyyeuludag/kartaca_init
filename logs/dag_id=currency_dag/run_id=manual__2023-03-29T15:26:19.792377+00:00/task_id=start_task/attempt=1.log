@@ -1,0 +1,24 @@
+[2023-03-29 15:26:20,967] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: currency_dag.start_task manual__2023-03-29T15:26:19.792377+00:00 [queued]>
+[2023-03-29 15:26:20,978] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: currency_dag.start_task manual__2023-03-29T15:26:19.792377+00:00 [queued]>
+[2023-03-29 15:26:20,978] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-29 15:26:20,978] {taskinstance.py:1357} INFO - Starting attempt 1 of 4
+[2023-03-29 15:26:20,978] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-29 15:26:20,993] {taskinstance.py:1377} INFO - Executing <Task(PythonOperator): start_task> on 2023-03-29 15:26:19.792377+00:00
+[2023-03-29 15:26:20,997] {standard_task_runner.py:52} INFO - Started process 190 to run task
+[2023-03-29 15:26:20,999] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'currency_dag', 'start_task', 'manual__2023-03-29T15:26:19.792377+00:00', '--job-id', '436', '--raw', '--subdir', 'DAGS_FOLDER/currency_dag.py', '--cfg-path', '/tmp/tmpn27o78cf', '--error-file', '/tmp/tmpmzxo6sks']
+[2023-03-29 15:26:20,999] {standard_task_runner.py:80} INFO - Job 436: Subtask start_task
+[2023-03-29 15:26:21,048] {task_command.py:369} INFO - Running <TaskInstance: currency_dag.start_task manual__2023-03-29T15:26:19.792377+00:00 [running]> on host 75e36b0b32e7
+[2023-03-29 15:26:21,123] {taskinstance.py:1571} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=kartaca
+AIRFLOW_CTX_DAG_ID=currency_dag
+AIRFLOW_CTX_TASK_ID=start_task
+AIRFLOW_CTX_EXECUTION_DATE=2023-03-29T15:26:19.792377+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-03-29T15:26:19.792377+00:00
+[2023-03-29 15:26:21,123] {logging_mixin.py:115} INFO - DAG has been started...
+[2023-03-29 15:26:21,123] {python.py:173} INFO - Done. Returned value was: DAG has been started...
+[2023-03-29 15:26:21,150] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=currency_dag, task_id=start_task, execution_date=20230329T152619, start_date=20230329T152620, end_date=20230329T152621
+[2023-03-29 15:26:21,172] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-03-29 15:26:21,213] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check
